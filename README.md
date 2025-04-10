@@ -33,7 +33,7 @@ La clase `CalculadoraDistancias` se encarga de:
 5. El programa mostrará la distancia de edición entre las dos cadenas definidas en la clase `Principal`.
 
 ## Diagrama UML
-!UML.png
+![UML.png](UML.png)
 
 ## Descripción del Algoritmo de Levenshtein
 El algoritmo de Levenshtein es una técnica para medir la diferencia entre dos secuencias de caracteres. La distancia de Levenshtein entre dos cadenas es el número mínimo de operaciones requeridas para transformar una cadena en la otra, donde una operación puede ser una inserción, eliminación o sustitución de un solo carácter.
